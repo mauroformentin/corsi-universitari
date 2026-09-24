@@ -21,6 +21,13 @@ sul computer c'è già.
 Di ogni corso si apre subito la prima lezione; il resto si sblocca con un seriale gratuito, che
 si chiede dal programma.
 
+## Aggiornamenti
+
+Quando esce una versione nuova, la pagina dei corsi del programma lo dice. Dalla versione 1.0.2
+basta **Aggiorna adesso**: il programma la scarica, si chiude e si riapre aggiornato. Con le
+versioni precedenti, o se il programma sta in una cartella in cui non può scrivere, si scarica
+lo zip nuovo e lo si estrae sopra la cartella di prima. Profili, progressi e corsi restano.
+
 ## Che cosa c'è qui
 
 - **Il programma**: le sue versioni sono nelle [release](https://github.com/mauroformentin/corsi-universitari/releases)
