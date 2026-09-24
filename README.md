@@ -23,7 +23,7 @@ si chiede dal programma.
 
 ## Aggiornamenti
 
-Quando esce una versione nuova, la pagina dei corsi del programma lo dice. Dalla versione 1.0.2
+Quando esce una versione nuova, il programma lo dice. Dalla versione 1.0.2
 basta **Aggiorna adesso**: il programma la scarica, si chiude e si riapre aggiornato. Con le
 versioni precedenti, o se il programma sta in una cartella in cui non può scrivere, si scarica
 lo zip nuovo e lo si estrae sopra la cartella di prima. Profili, progressi e corsi restano.
